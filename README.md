@@ -1,4 +1,4 @@
-<h3 align="center">I am an IT student. Regular programmer.</h3>
+<h3 align="center">I am an IT college student. Regular programmer.</h3>
 
 
 # 💻 Tech Stack:
